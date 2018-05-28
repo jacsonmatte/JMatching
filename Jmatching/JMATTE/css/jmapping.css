@@ -1,0 +1,35 @@
+
+
+.results2{
+  position: relative;
+  float: left;
+  width: 700px;
+  height: 360px;
+  border: 1px solid lightgray;
+}
+
+.results3{
+  position: relative;
+  float: left;
+  width: auto;
+  height: 420px;
+  border: 1px solid lightgray;
+}
+
+
+
+#resultList{
+	position: absolute;
+	width: 90px;
+	z-index: 1;
+	margin-left: 720px;
+	color: rgba(245, 12, 12, 0.8);
+	border: 2px solid  lightgray;
+	background-color: rgba(198, 171, 78, 0.26);
+	font-weight: 700;
+}
+
+#selectBD{
+	float: right;
+	margin-top: -40px;
+}
